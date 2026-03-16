@@ -1,5 +1,13 @@
 # Computer Vision Dataset Pipeline
 
+---
+
+## 데모
+
+![CLI Demo](docs/cli-demo.gif)
+
+---
+
 ## Example Visualization
 
 ![width distribution](docs/width_distribution.png)
